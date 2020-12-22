@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Ivan Popov",
+    "sex": "MAN",
+    "phoneNumber": "+7 (999) 507-2090"
+  },
+  {
+    "name": "Anna Sokolova",
+    "sex": "WOMAN",
+    "phoneNumber": "+7 (924) 504-3902"
+  },
+  {
+    "name": "WHOIS",
+    "sex": "UNKNOWN",
+    "phoneNumber": "+7 (000) 000-0000"
+  },
+  {
+    "name": "Anton Petrov",
+    "sex": "MAN",
+    "phoneNumber": "+7 (952) 484-3350"
+  },
+  {
+    "name": "Ekaterina Slonova",
+    "sex": "WOMAN",
+    "phoneNumber": "+7 (869) 517-2467"
+  }
+]

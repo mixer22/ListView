@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Shelby Woodard",
+    "sex": "UNKNOWN",
+    "phoneNumber": "+7 (977) 507-2090"
+  },
+  {
+    "name": "Bonnie Bradshaw",
+    "sex": "WOMAN",
+    "phoneNumber": "+7 (858) 504-3902"
+  },
+  {
+    "name": "Jacquelyn Fischer",
+    "sex": "UNKNOWN",
+    "phoneNumber": "+7 (802) 445-2603"
+  },
+  {
+    "name": "Georgina Bishop",
+    "sex": "MAN",
+    "phoneNumber": "+7 (952) 484-3350"
+  },
+  {
+    "name": "Ramsey Pugh",
+    "sex": "WOMAN",
+    "phoneNumber": "+7 (869) 517-2467"
+  },
+  {
+    "name": "Gale Leblanc",
+    "sex": "MAN",
+    "phoneNumber": "+7 (860) 512-3354"
+  },
+  {
+    "name": "Swanson Mercer",
+    "sex": "WOMAN",
+    "phoneNumber": "+7 (926) 516-3955"
+  }
+]
